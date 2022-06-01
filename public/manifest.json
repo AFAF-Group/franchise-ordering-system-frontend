@@ -1,6 +1,6 @@
 {
-  "name": "NextJS with Chakra-ui Boilerplate",
-  "short_name": "NextJS with Chakra-ui Boilerplate",
+  "name": "Franchise Ordering System",
+  "short_name": "Franchise Ordering System",
   "icons": [
     {
       "src": "/img/chakra-logo.png",
@@ -9,7 +9,7 @@
     }
   ],
   "background_color": "#000",
-  "description": "NextJS with Chakra-ui Boilerplate",
+  "description": "Franchise Ordering System from afaf-grop",
   "display": "fullscreen",
   "start_url": "/",
   "theme_color": "#000"

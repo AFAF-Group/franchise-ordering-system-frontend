@@ -4,7 +4,7 @@ export type HeroProps = {
   title?: string
 }
 
-const Hero = ({ title = 'NextJS with Chakra-ui Boilerplate' }: HeroProps) => (
+const Hero = ({ title = 'Franchise Ordering System' }: HeroProps) => (
   <Flex
     justifyContent="center"
     alignItems="center"
