@@ -1,6 +1,5 @@
-![NextJs with Chakra-ui Boilerplate](https://i.imgur.com/WfNLFV8.png)
 
-This is a [Next.js](https://nextjs.org/) boilerplate
+This is a Franchise Orderign System App built with [Next.js](https://nextjs.org/)
 
 ## What is inside?
 
@@ -22,7 +21,7 @@ This project uses lot of stuff as:
 To create a project from this boilerplate run:
 
 ```bash
-yarn create next-app MY_PROJECT_NAME --example https://github.com/Lukazovic/nextjs-with-chakra-ui-boilerplate
+git clone https://github.com/AFAF-Group/franchise-ordering-system-frontend
 ```
 
 Then, run the development server:
@@ -33,7 +32,7 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+You can start editing the page by modifying `pages/index.js`. The page is first page you see when firstly running the project.
 
 ## Commands
 
@@ -66,10 +65,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 Then merge your pull request, you can now delete your branch
 
-## :pencil: Author
+## Boilerplate of this project
+- [Boilerplate](https://github.com/Lukazovic/nextjs-with-chakra-ui-boilerplate/blob/main/README.md) - nextjs-with-chakra-ui-boilerplate.
+
+## :pencil: Developer
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Lukazovic"><img src="https://avatars0.githubusercontent.com/u/54550926?s=460&u=cdeeac652ce0597a986fbdcff6e249ad27a1f1da&v=4" width="100px;" alt=""/><br /><sub><b>Lucas Vieira</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Lukazovic"><img src="https://avatars.githubusercontent.com/u/40654380?s=400&v=4" width="100px;" alt=""/><br /><sub><b>afaf-tech</b></sub></a><br /></td>
   <tr>
 </table>
