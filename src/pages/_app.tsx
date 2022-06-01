@@ -12,7 +12,10 @@ function MyApp({ Component, pageProps }: AppProps) {
         <link rel="shortcut icon" href="/img/chakra-logo.png" />
         <link rel="apple-touch-icon" href="/img/chakra-logo.png" />
         <link rel="manifest" href="/manifest.json" />
-        <meta name="description" content="Franchise Ordering System from afaf-group" />
+        <meta
+          name="description"
+          content="Franchise Ordering System from afaf-group"
+        />
       </Head>
 
       <Component {...pageProps} />
