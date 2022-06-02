@@ -10,13 +10,14 @@ import { IconType } from 'react-icons'
 interface LinkItemProps {
   name: string
   icon: IconType
+  href: string
 }
 const LinkItems: Array<LinkItemProps> = [
-  { name: 'Home', icon: FiHome },
-  { name: 'Explore', icon: FiCompass },
-  { name: 'Favourites', icon: FiStar },
-  { name: 'Settings', icon: FiSettings },
-  { name: 'Orders', icon: FiShoppingCart }
+  { name: 'Home', icon: FiHome, href: '' },
+  { name: 'Explore', icon: FiCompass, href: 'explores' },
+  { name: 'Favourites', icon: FiStar, href: 'favourites' },
+  { name: 'Settings', icon: FiSettings, href: 'settings' },
+  { name: 'Orders', icon: FiShoppingCart, href: 'orders' }
 ]
 
 export default LinkItems
