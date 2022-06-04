@@ -1,4 +1,5 @@
 import { Text } from '@chakra-ui/react'
+import { Counter } from 'components/Form/Counter'
 import SidebarWithHeader from 'components/Sidebar'
 
 const Home = () => {
@@ -8,6 +9,7 @@ const Home = () => {
         Lorem ipsum is placeholder text commonly used in the graphic, print, and
         publishing industries for previewing layouts and visual mockups.
       </Text>
+      <Counter/>
     </SidebarWithHeader>
   )
 }

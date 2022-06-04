@@ -35,7 +35,7 @@ const SidebarContent = ({ onClose, ...rest }: SidebarProps) => {
       </Flex>
       {LinkItems.map((link) => (
         // eslint-disable-next-line react/jsx-key
-        <Link href={link.href} passHref>
+        <Link key={link.name} href={link.href} passHref>
           <NavItem key={link.name} icon={link.icon}>
             {link.name}
           </NavItem>
