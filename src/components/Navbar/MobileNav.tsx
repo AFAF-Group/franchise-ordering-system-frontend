@@ -57,6 +57,7 @@ const MobileNav = ({ onOpen, ...rest }: MobileProps) => {
           aria-label="open menu"
           icon={<FiBell />}
         />
+
         <Flex alignItems={'center'}>
           <Menu>
             <MenuButton
